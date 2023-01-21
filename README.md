@@ -1,4 +1,4 @@
-#👋 Hi, greetings, Cheng-Yu Hsieh is here.
+# 👋 Hi, greetings, Cheng-Yu Hsieh is here.
 * 👨‍💻 Interested in Software Development, FinTech(e.g. Blockchain & Cryptocurrency, Quantitative Trading), Cyber Security and AI.
 * 🎓 In 2018, I earned a Bachelor of Science degree in Opto-Electronics Information Science and Engineering at Sun Yat-sen University.
 * 📚 Currently, I'm pursuing a Master of Science degree in General Engineering at San Jose State University.
@@ -8,5 +8,5 @@
 * 📫 Reach me on LinkedIn: https://www.linkedin.com/in/maxwell1996/
 
 <!---
-🤫 You found a secret! max870701/About is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started. 
+🤫 You found a secret! max870701/max870701 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started. 
 --->
