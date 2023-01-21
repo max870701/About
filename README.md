@@ -1,4 +1,4 @@
-# 👋 Hi, greetings, Cheng-Yu Hsieh is here.
+# 👋 Hi, Cheng-Yu Hsieh is here.
 * 👨‍💻 Interested in Software Development, FinTech(e.g. Blockchain & Cryptocurrency, Quantitative Trading), Cyber Security and AI.
 * 🎓 In 2018, I earned a Bachelor of Science degree in Opto-Electronics Information Science and Engineering at Sun Yat-sen University.
 * 📚 Currently, I'm pursuing a Master of Science degree in General Engineering at San Jose State University.
