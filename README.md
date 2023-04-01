@@ -4,7 +4,7 @@
 * 📚 Currently, I'm pursuing a Master of Science degree in General Engineering at San Jose State University, and also pursuing a Master of Science degree in Financial Engineering at WorldQuant University.
 * 👀 Now, I’m looking for an internship in Summer 2023.
 * 🌱 Currently learning Kali Linux, Cryptography, Machine Learning.
-* 📖 Reading《Black Hat Python: Python Programming for Hackers and Pentesters》《Poker's 1%: The One Big Secret That Keeps Elite Players On Top》
+* 📖 Reading《Poker's 1%: The One Big Secret That Keeps Elite Players On Top》
 * 📫 Reach me on LinkedIn: https://www.linkedin.com/in/maxwell1996/
 
 <!---
