@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cheng-Yu Hsieh.</h1>
-<h3 align="left">📚 I'm pursuing a Master of Science degree in Engineering at San Jose State University, and also pursuing a Master of Science degree in Financial Engineering at WorldQuant University.</h3>
+<h3 align="left">📚 I'm pursuing a Master of Science degree in Engineering at San Jose State University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max870701&label=Profile%20views&color=0e75b6&style=flat" alt="max870701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max870701" alt="max870701" /></a> </p>
+[![max870701's GitHub | Stats](https://stats.quine.sh/max870701/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=max870701)
+[![max870701's GitHub | Languages Over Time](https://stats.quine.sh/max870701/languages-over-time?theme=light)](https://quine.sh)
+[![max870701's GitHub | Languages Over Time](https://stats.quine.sh/max870701/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=max870701)
+[![max870701's GitHub | Topics Over Time](https://stats.quine.sh/max870701/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=max870701)
 
 - 📖 I’m currently learning **Data Science, Machine Learning, Deep Learning.**
 - 👨‍💻 Interested in **Blockchain & Cryptocurrency, Quantitative Trading, Software Development, Cyber Security, AI**.
