@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cheng-Yu Hsieh.</h1>
-<h3 align="left">📚 I'm pursuing a Master of Science degree in Engineering at San Jose State University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max870701&label=Profile%20views&color=0e75b6&style=flat" alt="max870701" /> </p>
 
-- 📖 I’m currently learning **Data Science, Machine Learning, Deep Learning.**
-- 👨‍💻 Interested in **Blockchain & Cryptocurrency, Quantitative Trading, Software Development, Cyber Security, AI**.
-- 👀 I’m seeking a **new grad position in 2024**.
+- 👨‍💻 Interested in **Blockchain & Cryptocurrency, Quantitative Trading, Software Development, Cyber Security, Data Science, Data Engineering, Machine Learning**.
+- 👀 Seeking for a **software engineer position**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
